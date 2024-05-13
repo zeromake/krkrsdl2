@@ -18,6 +18,7 @@
 #include "Application.h"
 #include "tjsDictionary.h"
 #include "ScriptMgnIntf.h"
+#include "VirtualKey.h"
 #include <map>
 
 static std::map<tTVInteger, iTJSDispatch2*> MENU_LIST;
